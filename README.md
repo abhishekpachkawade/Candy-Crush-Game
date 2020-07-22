@@ -1,5 +1,7 @@
 # candy-crush
 
+Hello! I am Abhishek...
+
 In this walkthrough, I show you how to build Candy Crush in pure JavaScript, HTML and CSS.  
 
 This walkthrough is great as it will show you how to drag and drop elements in JavaScript. This is a very popular element in building many JavaScript projects.
@@ -23,4 +25,4 @@ In addition to this, we will also be practising using inbuilt methods as shown i
 
 And many more.
 
-I would love to see your finished game 
+
